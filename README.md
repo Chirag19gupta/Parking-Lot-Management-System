@@ -27,8 +27,6 @@ python liscence.py
 python management.py
 ```
 
-## Screenshots
-*(Here you can add images as proof of concept. Screenshots showing the execution of the programs and their outputs would be ideal.)*
 
 ## Customization
 You can customize the following aspects of the code:
