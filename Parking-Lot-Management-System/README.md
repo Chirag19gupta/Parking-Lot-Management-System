@@ -27,9 +27,6 @@ python liscence.py
 python management.py
 ```
 
-## Screenshots
-*(Here you can add images as proof of concept. Screenshots showing the execution of the programs and their outputs would be ideal.)*
-
 ## Customization
 You can customize the following aspects of the code:
 - **License Plate Recognition Settings**: In `liscence.py`, you can adjust the image preprocessing settings and the Tesseract OCR configuration.
